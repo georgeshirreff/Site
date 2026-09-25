@@ -1,0 +1,51 @@
+---
+title: "Publications"
+---
+
+My [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-4654-1254)
+
+```         
+```
+
+```{r}
+#| layout-ncol: 5
+#| echo: false
+library(gt)
+
+gt(
+  read.csv("pub_list.csv") |> 
+  dplyr::transmute(Title, Author, 
+                   Journal = ifelse((Publication.Title == ""), "Preprint - medRxiv", Publication.Title), Year = substr(Date, 1, 4),
+                   #DOI = paste0("<a href=\"http://doi.org/", DOI, "\">", DOI, "</a>")
+                   DOI = paste0("http://doi.org/", DOI) 
+                   ) |>
+  dplyr::arrange(-as.numeric(Year), !grepl("Preprint", Journal))) |>
+  fmt_url(columns = DOI) |>
+  text_transform(
+    locations = cells_body(columns = Author),
+    fn = function(x) {
+      lapply(x, function(author_list) {
+
+        author_vec <- strsplit(author_list, ";")[[1]]
+
+        short <- paste(
+          head(author_vec, 3),
+          collapse = "; "
+        )
+
+        paste0(
+          "<span class='author-tooltip'>",
+          short, ", et al.",
+          "<span class='tooltip-text'>",
+          author_list,
+          "</span>",
+          "</span>"
+        )
+      })
+    }
+  )
+
+
+  
+
+```

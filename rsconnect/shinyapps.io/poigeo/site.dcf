@@ -1,0 +1,10 @@
+name: site
+title:
+username: poigeo
+account: poigeo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 18012031
+bundleId: 12605435
+url: https://poigeo.shinyapps.io/site/
+version: 1

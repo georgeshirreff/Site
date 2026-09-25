@@ -1,0 +1,66 @@
+---
+title: "CV"
+---
+
+**Work experience**
+
++--------------+-------------------------------------------------------------------------------------------------------+
+| 2025-present | Post-doctoral researcher at Université Claude Bernard Lyon 1\                                         |
+|              | Epidemiology and modelling of viral respiratory infections at the Hospices Civils de Lyon             |
++--------------+-------------------------------------------------------------------------------------------------------+
+| 2020-2025    | Post-doctoral researcher at Institut Paster/Université de Versailles Saint Quentin\                   |
+|              | Epidemiology and modelling of respiratory viruses and hospital contact behaviours                     |
++--------------+-------------------------------------------------------------------------------------------------------+
+| 2019-2020    | Consultant epidemiologist at Ausvet Europe/Swiss Tropical Public Health Institute\                    |
+|              | Mathematical modelling of national malaria incidence and intervention scenarios in Benin and Cameroon |
++--------------+-------------------------------------------------------------------------------------------------------+
+| 2017-2019    | Senior technical adviser at Clinton Health Access Initiative\                                         |
+|              | Scientific support and capacity building for malaria elimination in Southern Africa                   |
++--------------+-------------------------------------------------------------------------------------------------------+
+| 2016-2017    | Senior analyst at AIMIA Inc\                                                                          |
+|              | Analysis of consumer behaviour using propensity-matching models                                       |
++--------------+-------------------------------------------------------------------------------------------------------+
+| 2016         | Flying epidemiologist at Médecins Sans Frontières\                                                    |
+|              | Epidemiological support and planning for Bukavu mission, Democratic Republic of the Congo             |
++--------------+-------------------------------------------------------------------------------------------------------+
+| 2014-2016    | Research associate at Imperial College London\                                                        |
+|              | Vaccine epidemiology relating to poliovirus elimination efforts in Afghanistan, Pakistan and Nigeria  |
++--------------+-------------------------------------------------------------------------------------------------------+
+| 2012-2014    | Post-doctoral researcher at ETH Zürich\                                                               |
+|              | Modelling and phylogenomics of HIV drug resistance                                                    |
++--------------+-------------------------------------------------------------------------------------------------------+
+
+**Education**
+
+|  |  |
+|----|----|
+| 2008-2012 | PhD in HIV epidemiology and genomic modelling at Imperial College London |
+| 2007-2008 | MSc in Modern Epidemiology at Imperial College London |
+| 2003-2006 | BA in Biological Sciences at University of Oxford |
+
+**Teaching**
+
+|  |  |  |
+|----|----|----|
+| 2022, 2023, 2025, 2026 | Université de Limoges | Master 2 Santé Publique parcours OneHealth - 20h |
+| 2025, 2026 | Université Claude Bernard Lyon 1 | Master Leading international vaccinology education (LIVE) - 3h |
+| 2022 | Université de Grenoble | Master 2 infectious disease modelling summer school - 5h |
+| 2019 | National Malaria Control Program, Namibia | Data analysis in R and Excel - 18h |
+
+**Skills**
+
+|                                      |
+|--------------------------------------|
+| Mathematical modelling               |
+| Data analysis                        |
+| Statistical inference                |
+| Mapping and geospatial analysis      |
+| Machine learning                     |
+| Teaching, developing course material |
+| Programming (R, C++)                 |
+| REDCap survey development            |
+| Web scraping                         |
+| Linux, bash and SLURM                |
+| SQL                                  |
+| English: native                      |
+| French: C1                           |

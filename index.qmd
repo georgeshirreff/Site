@@ -1,0 +1,15 @@
+---
+title: "George Shirreff"
+---
+
+I am an epidemiologist and mathematical modeller. I have experience across a number of infectious agents (HIV, poliovirus, malaria, SARS-CoV-2, influenza), and settings (Botswana, Nigeria, Afghanistan, Pakistan, Democratic Republic of the Congo and currently France). I work with tools including deterministic and stochastic compartmental models, machine learning classification, and geospatial mapping and analysis packages.
+
+I have created online tools to make results from published studies more readily available, and to expose some other learning tools which I've developed.
+
+<!-- [CV](cv.qmd){.btn .btn-primary} -->
+
+<!-- [Publications](publications.qmd){.btn .btn-primary} -->
+
+<!-- [Research](travaux.qmd){.btn .btn-primary} -->
+
+<!-- [Interactive tools](french_numbers.qmd){.btn .btn-outline-primary} -->
