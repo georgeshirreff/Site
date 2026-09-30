@@ -65,4 +65,14 @@
 .gt_table th {
   background-color: lavenderblush !important;
 }
+
+.caption p {
+  font-size: 100px;
+}
+
+.my-paragraph {
+  font-size: 4px;
+}
+
+
   

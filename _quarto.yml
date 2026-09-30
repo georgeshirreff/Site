@@ -31,7 +31,7 @@ format:
   html:
     page-layout: full
     theme:
-      - vapor
+      - flatly
       - brand
     css: styles.css
     toc: true
