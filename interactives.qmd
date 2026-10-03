@@ -5,10 +5,7 @@ editor: visual
 
 # Catchment population query tool
 
-This provides estimates of catchment population sizes for individual hospitals, according to a proportional flow methodology.
-Population data: INSEE
-Hospital usage data: ATIH
-Please see the <a href="https://doi.org/10.64898/2026.04.28.26351911">pre-print</a> for further details on the data and methodology. 
+This provides estimates of catchment population sizes for individual hospitals, according to a proportional flow methodology. Population data: INSEE Hospital usage data: ATIH Please see the <a href="https://doi.org/10.64898/2026.04.28.26351911">pre-print</a> for further details on the data and methodology.
 
 <iframe src="https://poigeo.shinyapps.io/explore_catchment/" width="100%" height="800" frameborder="0" style="background-color: lavenderblush;">
 
